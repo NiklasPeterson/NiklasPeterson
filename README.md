@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Niklas
+
+I'm a designer living in Sweden.
+
+
+[My personal website](https://niklaspeterson.com/) <br />
+[@niklas_peterson on Twitter &rarr;](https://twitter.com/niklas_peterson)
 
 ![Niklas's github stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true) 
 
