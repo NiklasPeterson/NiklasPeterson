@@ -1,5 +1,5 @@
-### Hi there, my name is Niklas Peterson
-## I'm a designer living in Sweden.
+# Hi there, my name is Niklas Peterson
+# I'm a designer living in Sweden.
 
 🔭 I’m currently working on: a new version of my [website](https://niklaspeterson.com/) <br />
 🌱 I’m currently learning: Next.js <br />
