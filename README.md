@@ -1,4 +1,4 @@
-### Hi there, I'm Niklas
+### Hi there, my name is Niklas Peterson
 
 I'm a designer living in Sweden.
 
