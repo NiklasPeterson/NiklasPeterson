@@ -3,8 +3,9 @@
 I'm a designer living in Sweden.
 
 
-[My personal website](https://niklaspeterson.com/) <br />
-[@niklas_peterson on Twitter &rarr;](https://twitter.com/niklas_peterson)
+[My personal website &rarr;](https://niklaspeterson.com/) <br />
+[Twitter &rarr;](https://twitter.com/niklas_peterson)
+[Dribbble &rarr;](https://dribbble.com/niklaspeterson)
 
 
 <!--
