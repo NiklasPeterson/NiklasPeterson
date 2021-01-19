@@ -2,14 +2,14 @@
 
 I'm a designer living in Sweden.
 
+🔭 I’m currently working on: a new version of my [website](https://niklaspeterson.com/) <br />
+🌱 I’m currently learning: Next.js <br />
 
+📫 How to reach me: <br />
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
 [Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [Dribbble &rarr;](https://dribbble.com/niklaspeterson) <br />
-
-🔭 I’m currently working on: a new version of my [website](https://niklaspeterson.com/) <br />
-🌱 I’m currently learning: Next.js <br />
-📫 How to reach me: deisgn.npeterson@icloud.com <br />
+[Mail &rarr;](mailto:deisgn.npeterson@icloud.com)
 
 <!--
 ![Niklas's github stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true) 
