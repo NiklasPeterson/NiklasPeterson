@@ -13,9 +13,7 @@ I'm a designer living in Sweden.
 
 <!--
 ![Niklas's github stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true) 
-
 ![top-lang](https://github-readme-stats.vercel.app/api/top-langs/?username=NiklasPeterson&layout=compact)
-
 -->
 
 <!--
