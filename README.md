@@ -5,8 +5,8 @@ I'm a designer living in Sweden.
 ![Stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true&count_private=true&line_height=24&hide=contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
 
-🔭 I’m currently working on: a new version of my [website](https://niklaspeterson.com/) <br />
-🌱 I’m currently learning: Next.js <br />
+🔭 I’m currently working on: a macOS app that lives in the menubar <br />
+🌱 I’m currently learning: Swift + SwiftUI <br />
 
 📫 How to reach me: <br />
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
