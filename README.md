@@ -13,7 +13,6 @@ I'm a designer living in Sweden.
 [Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [Dribbble &rarr;](https://dribbble.com/niklaspeterson) <br />
 [Polywork &rarr;](https://www.polywork.com/niklaspeterson) <br />
-
 [Mail &rarr;](mailto:design.npeterson@icloud.com)
 
 <!--
