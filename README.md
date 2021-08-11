@@ -1,19 +1,11 @@
-### Hi there, my name is Niklas Peterson
-I'm a designer living in Sweden.
-
-<!--
-![Stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true&count_private=true&line_height=24&hide=contribs&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
--->
-
-🔭 I’m currently working on: a macOS app that lives in the menubar <br />
-🌱 I’m currently learning: Swift + SwiftUI <br />
+### Hi there! My name is Niklas Peterson,
+I'm a designer who focuses on UI & UX design but also codes websites & apps.
 
 📫 How to reach me: <br />
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
-[Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
+[@niklas_peterson on Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
+[My personal changelog &rarr;](https://changelog.niklaspeterson.com) <br />
 [Dribbble &rarr;](https://dribbble.com/niklaspeterson) <br />
-[Polywork &rarr;](https://www.polywork.com/niklaspeterson) <br />
-[Mail &rarr;](mailto:design.npeterson@icloud.com)
 
 <!--
 ![Niklas's github stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true) 
