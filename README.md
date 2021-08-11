@@ -12,6 +12,8 @@ I'm a designer living in Sweden.
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
 [Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [Dribbble &rarr;](https://dribbble.com/niklaspeterson) <br />
+[Polywork &rarr;](https://www.polywork.com/niklaspeterson) <br />
+
 [Mail &rarr;](mailto:design.npeterson@icloud.com)
 
 <!--
