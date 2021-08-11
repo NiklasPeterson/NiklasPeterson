@@ -1,4 +1,4 @@
-### Hi there! My name is Niklas Peterson,
+### Hi there! My name is Niklas Peterson.
 I'm a designer who focuses on UI & UX design but also codes websites & apps.
 
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
