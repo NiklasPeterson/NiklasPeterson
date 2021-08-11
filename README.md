@@ -1,7 +1,6 @@
 ### Hi there! My name is Niklas Peterson,
 I'm a designer who focuses on UI & UX design but also codes websites & apps.
 
-📫 How to reach me: <br />
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
 [@niklas_peterson on Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [My personal changelog &rarr;](https://changelog.niklaspeterson.com) <br />
