@@ -4,7 +4,6 @@ I'm a designer who focuses on UI & UX design but also codes websites & apps.
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
 [Follow me on Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [My personal changelog &rarr;](https://changelog.niklaspeterson.com) <br />
-[Dribbble &rarr;](https://dribbble.com/niklaspeterson) <br />
 
 <!--
 ![Niklas's github stats](https://github-readme-stats.vercel.app/api?username=NiklasPeterson&show_icons=true) 
