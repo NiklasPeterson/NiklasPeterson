@@ -1,6 +1,7 @@
 ### Hi there! My name is Niklas Peterson.
-I'm a designer who focuses on UI & UX design, but I also develop websites, iOS & Android apps.
+I'm a designer who focuses on UI & UX design, but I also develop websites, iOS & Android apps. <br />
 
+**Links:** <br />
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
 [Follow me on Twitter &rarr;](https://twitter.com/niklas_peterson) <br />
 [My personal changelog &rarr;](https://changelog.niklaspeterson.com) <br />
