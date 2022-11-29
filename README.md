@@ -1,5 +1,6 @@
 # Hello, I'm Niklas Peterson 👋🏽
 I'm a product designer from Sweden 🇸🇪 A part from designing I also like to code every now and then, currently learning about Discord bots.<br />
+____
 Designing WEB3 tools for artists, designers and creators at [Bueno](https://bueno.art/).<br />
 
 [My personal website &rarr;](https://niklaspeterson.com/) <br />
