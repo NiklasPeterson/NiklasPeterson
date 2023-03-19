@@ -6,5 +6,4 @@ __
 Working at [Bueno](https://bueno.art/) where I design WEB3 tools for artists, designers and creators.<br />
 
 [Follow me on Twitter](https://twitter.com/niklas_peterson) <br />
-[Visit my website](https://niklaspeterson.com/) <br />
-[See my personal changelog](https://changelog.niklaspeterson.com) <br />
+[Visit my website](https://niklaspeterson.com/)
