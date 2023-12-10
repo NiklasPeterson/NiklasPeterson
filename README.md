@@ -1,5 +1,5 @@
-# Hello, I'm Niklas Peterson 👋🏽
-I'm a designer from Sweden 🇸🇪<br/>
+# Hello, I'm Niklas Peterson,
+a designer from Sweden 🇸🇪<br/>
 Creator of [Hydrify](https://hydrify.app) & [Timestamps](https://timestamps.app). Bringing creativity to life through pixels and lines.<br/>
 __
 
