@@ -1,6 +1,6 @@
 # Hello, I'm Niklas Peterson,
 a designer from Sweden 🇸🇪<br/>
-Creator of [Hydrify](https://hydrify.app) & [Timestamps](https://timestamps.app). Bringing creativity to life through pixels and lines.<br/>
+Creator of [Hydrify](https://hydrify.app), [Titls](https://apps.apple.com/app/titls/id1579078964) & [Timestamps](https://timestamps.app). Bringing creativity to life through pixels and lines.<br/>
 __
 
 Product Designer at [Bueno](https://bueno.art/) where I design no-code tools for artists, designers and creators.<br />
